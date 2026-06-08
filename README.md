@@ -10,4 +10,4 @@ criação de métricas, visualização de informações e construção de painé
 - DAX
 
 ## Visão Geral
-![Página Inicial](imagens/paowerbi.png)
+![Página Inicial](imagens/powerbi.png)
