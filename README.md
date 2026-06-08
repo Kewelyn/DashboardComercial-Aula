@@ -11,3 +11,4 @@ criação de métricas, visualização de informações e construção de painé
 
 ## Visão Geral
 ![Página Inicial](imagens/powerbi.png)
+<img width="1160" height="658" alt="powerbi" src="https://github.com/user-attachments/assets/69943ea8-60ed-493a-a51d-2766b236e9aa" />
